@@ -1,6 +1,6 @@
 FROM php:8.0.19-apache-buster
 
-ENV VERSION 2.1.61
+ENV VERSION 2.1.65
 
 #============================================
 # elFinder
