@@ -1,4 +1,4 @@
-FROM php:8.0.19-apache-buster
+FROM php:8.2-apache-bookworm
 
 ENV VERSION 2.1.65
 
